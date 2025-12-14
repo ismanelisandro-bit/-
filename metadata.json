@@ -1,0 +1,5 @@
+{
+  "name": "SmartLesson 智课生成器",
+  "description": "Transforms documents and images into interactive educational slides with AI-powered quizzes and audio explanations.",
+  "requestFramePermissions": []
+}
